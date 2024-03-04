@@ -7,6 +7,9 @@
 
 ![image](https://github.com/aniketroy11/Snapgram/assets/118362716/ecbd0946-d87f-4f5f-9a9e-2872f69c6a9b)
 
+![image](https://github.com/aniketroy11/Snapgram/assets/118362716/3d9381bf-1b80-4a17-841d-082f9acbc990)
+
+
 
 
 
