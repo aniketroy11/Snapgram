@@ -1,30 +1,7 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Screenshot 2024-03-12 205416](https://github.com/aniketroy111/Snapgram/assets/101085223/1eae4402-59f1-46ab-8a53-74839c800a9e)
+![Screenshot 2024-03-12 205442](https://github.com/aniketroy111/Snapgram/assets/101085223/df5773b7-7c68-4e82-9833-687409290567)
+![Screenshot 2024-03-12 205531](https://github.com/aniketroy111/Snapgram/assets/101085223/209b5189-fb2b-4bd2-8fc2-0fd74c0bf6b2)
+![Screenshot 2024-03-12 205545](https://github.com/aniketroy111/Snapgram/assets/101085223/f4761111-9545-45ac-bbab-a26b7cd64408)
+![Screenshot 2024-03-12 205622](https://github.com/aniketroy111/Snapgram/assets/101085223/f4bdefc4-6d53-4fbb-acd1-85bcba6b1e18)
+![Screenshot 2024-03-12 205644](https://github.com/aniketroy111/Snapgram/assets/101085223/07e57c55-674d-434c-b4c3-ce3208cecc6d)
+![Screenshot 2024-03-12 205501](https://github.com/aniketroy111/Snapgram/assets/101085223/3ae8b5a5-ddb6-4514-a3a0-1c9c7f21ce9d)
